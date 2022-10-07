@@ -11,8 +11,10 @@
    <a href="https://www.youtube.com/channel/UCVyCaPU0sM9FopyMMLqohWQ?sub_confirmation=1">
        <img align="right" height=400 src="https://media.giphy.com/media/XeXtOVyYF961jhiPbt/giphy.gif">
    </a>
+   <br><br/>
  <p/>
 
+ <br><br/>
 <img src="https://sloc.xyz/github/PlacementGuide1/PlacementGuide1" alt="LOC"/> <a href="https://github.com/PlacementGuide1/PlacementGuide1/stargazers"><img src="https://img.shields.io/github/stars/PlacementGuide1/PlacementGuide1" alt="Stars Badge"/></a>
 <a href="https://github.com/PlacementGuide1/PlacementGuide1s/network/members"><img src="https://img.shields.io/github/forks/PlacementGuide1/PlacementGuide1" alt="Forks Badge"/></a>
 <a href="https://github.com/PlacementGuide1/PlacementGuide1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PlacementGuide1/PlacementGuide1?color=2b9348"></a>
