@@ -32,10 +32,14 @@
 [![Discord](https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/umYVGnvvAg)
 [![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
 
-<!--[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+---
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <a href="https://github.com/PlacementGuide1/PlacementGuide1/pulls"><img src="https://img.shields.io/github/issues-pr/PlacementGuide1/PlacementGuide1" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/PlacementGuide1/PlacementGuide1/issues"><img src="https://img.shields.io/github/issues/PlacementGuide1/PlacementGuide1" alt="Issues Badge"/></a>
--->
+
+---
+
 # Learning Resources
 
 <!-- <a target="_blank" href="https://www.amazon.in/gp/search?ie=UTF8&tag=codedecks0d-21&linkCode=ur2&linkId=ad5e11b5c15f960da1985687dfcec2e8&camp=3638&creative=24630&index=books&keywords=java, data structures, algorithms, system design">codedecks</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=codedecks0d-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/> -->
