@@ -15,6 +15,9 @@
  <p/>
 
  <br><br/>
+ 
+ ---
+ 
 <img src="https://sloc.xyz/github/PlacementGuide1/PlacementGuide1" alt="LOC"/> <a href="https://github.com/PlacementGuide1/PlacementGuide1/stargazers"><img src="https://img.shields.io/github/stars/PlacementGuide1/PlacementGuide1" alt="Stars Badge"/></a>
 <a href="https://github.com/PlacementGuide1/PlacementGuide1s/network/members"><img src="https://img.shields.io/github/forks/PlacementGuide1/PlacementGuide1" alt="Forks Badge"/></a>
 <a href="https://github.com/PlacementGuide1/PlacementGuide1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PlacementGuide1/PlacementGuide1?color=2b9348"></a>
@@ -25,7 +28,6 @@
 
 ---
 
-![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20%2F%20JS%20%2F%20C++-orange.svg)&nbsp;
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![Discord](https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/umYVGnvvAg)
 [![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
