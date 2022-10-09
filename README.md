@@ -12,9 +12,9 @@
 <br>
 
 <p align="center">
- <h2>Join Us on Telegram & Facebook</h2>
- <a href="">
-       <img align="left" height=100 src="https://media.giphy.com/media/wlR4kWTnwEyY8RwHKM/giphy.gif">
+ <h2>Join Us on WhatsApp & Facebook</h2>
+ <a href="https://chat.whatsapp.com/FlvEjqblwleB8gugrvGSmk">
+       <img align="left" height=100 src="https://media.tenor.com/koQXDHZHVMQAAAAi/whatsapp.gif">
  </a>
  <a href="https://www.facebook.com/placementguide.in">
        <img align="left" height=100 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
